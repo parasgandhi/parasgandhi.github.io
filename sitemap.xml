@@ -3,46 +3,46 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://example.com/page/about/</loc>
+    <loc>https://parasgandhi.github.io/page/about/</loc>
     <lastmod>2017-10-01T02:13:50+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/project/bytenet-vqa/</loc>
+    <loc>https://parasgandhi.github.io/project/bytenet-vqa/</loc>
   </url>
   
   <url>
-    <loc>https://example.com/page/contact/</loc>
+    <loc>https://parasgandhi.github.io/page/contact/</loc>
   </url>
   
   <url>
-    <loc>https://example.com/1/01/01/my-journey/</loc>
+    <loc>https://parasgandhi.github.io/1/01/01/my-journey/</loc>
   </url>
   
   <url>
-    <loc>https://example.com/page/</loc>
-    <lastmod>2017-10-01T02:13:50+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://example.com/</loc>
+    <loc>https://parasgandhi.github.io/page/</loc>
     <lastmod>2017-10-01T02:13:50+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/post/</loc>
+    <loc>https://parasgandhi.github.io/</loc>
+    <lastmod>2017-10-01T02:13:50+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/project/</loc>
+    <loc>https://parasgandhi.github.io/post/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/tags/</loc>
+    <loc>https://parasgandhi.github.io/project/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://parasgandhi.github.io/tags/</loc>
     <priority>0</priority>
   </url>
   
