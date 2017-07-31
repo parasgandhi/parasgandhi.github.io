@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Paras Gandhi</title>
+    <link>https://example.com/page/</link>
+    <description>Recent content in Pages on Paras Gandhi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Paras Gandhi</copyright>
+    <lastBuildDate>Sun, 01 Oct 2017 02:13:50 +0000</lastBuildDate>
+    
+	<atom:link href="https://example.com/page/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>https://example.com/page/about/</link>
+      <pubDate>Sun, 01 Oct 2017 02:13:50 +0000</pubDate>
+      
+      <guid>https://example.com/page/about/</guid>
+      <description>I am a passionate coder, and completed my Bachelors degree in Computer Science from Bharati Vidyapeeth University, Pune. I love solving real world problems. The journeys towards the solutions have been more exciting than the destinations themselves.
+I&amp;rsquo;ve always had a thing for Web and Mobile development, and not just their functionality but their aesthetics. For me it&amp;rsquo;s more like an art than science, always keeping up with new technologies, web frameworks and implementing their unique styles.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://example.com/page/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/page/contact/</guid>
+      <description>Contact 8446571372
+7875889788
+Address A-16 Ivy Villas, Ivy Estate, Wagholi, Pune</description>
+    </item>
+    
+  </channel>
+</rss>
